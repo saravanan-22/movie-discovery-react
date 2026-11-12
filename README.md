@@ -24,6 +24,9 @@ React · React Router · Material UI · React Bootstrap · Axios · Firebase Aut
 git clone https://github.com/saravanan-22/movie-app-react.git
 cd movie-app-react
 npm install
-# add your TMDB key to .env:  REACT_APP_API_KEY=your_key
+cp .env.example .env   # then add your TMDB API key
 npm start
 ```
+
+## License
+[MIT](LICENSE) © Saravanan
