@@ -5,8 +5,8 @@ A movie & TV discovery app powered by **The Movie Database (TMDB) API**, with us
 **▶ Live demo: [aj-react-p2-movieapp.vercel.app](https://aj-react-p2-movieapp.vercel.app/)**
 
 <p>
-  <img src="https://raw.githubusercontent.com/saravanan-22/react-portfolio/main/src/images/movie_app_image1.jpg" width="49%" alt="Movie app home" />
-  <img src="https://raw.githubusercontent.com/saravanan-22/react-portfolio/main/src/images/movie_app_image2.jpg" width="49%" alt="Movie app browse" />
+  <img src="https://raw.githubusercontent.com/saravanan-22/old-portfolio-react/main/src/images/movie_app_image1.jpg" width="49%" alt="Movie app home" />
+  <img src="https://raw.githubusercontent.com/saravanan-22/old-portfolio-react/main/src/images/movie_app_image2.jpg" width="49%" alt="Movie app browse" />
 </p>
 
 ## Features
@@ -21,8 +21,8 @@ React · React Router · Material UI · React Bootstrap · Axios · Firebase Aut
 
 ## Run locally
 ```bash
-git clone https://github.com/saravanan-22/movie-app-react.git
-cd movie-app-react
+git clone https://github.com/saravanan-22/movie-discovery-react.git
+cd movie-discovery-react
 npm install
 cp .env.example .env   # then add your TMDB API key
 npm start
